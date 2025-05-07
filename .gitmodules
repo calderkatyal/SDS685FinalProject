@@ -1,0 +1,6 @@
+[submodule "RL-VLM-F"]
+	path = RL-VLM-F
+	url = git@github.com:yufeiwang63/RL-VLM-F.git
+[submodule "r3m"]
+	path = r3m
+	url = git@github.com:facebookresearch/r3m.git
