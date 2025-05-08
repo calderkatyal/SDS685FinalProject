@@ -23,6 +23,6 @@ Download additional requirements
 pip install matplotlib scikit-learn
 ```
 
-We use the cached VLM-generated labels provided by the [RL-VLM-F repository] (https://github.com/yufeiwang63/RL-VLM-F) for the Open Drawer task. Download seed_0, seed_1, and seed_2 from this [Google Drive link](https://drive.google.com/drive/folders/11LuzMXIk3dVMJZIiWA24bwjRlYUmY7li) and place each seed at ```RL-VLM-Fdata/cached_labels/Drawer/seed_{i}```. 
+We use the cached VLM-generated labels provided by the [RL-VLM-F repository](https://github.com/yufeiwang63/RL-VLM-F) for the Open Drawer task. Download seed_0, seed_1, and seed_2 from this [Google Drive link](https://drive.google.com/drive/folders/11LuzMXIk3dVMJZIiWA24bwjRlYUmY7li) and place each seed at ```RL-VLM-Fdata/cached_labels/Drawer/seed_{i}```. 
 
 The jupyter notebook is at `src/project.ipynb`
